@@ -1,0 +1,14 @@
+git init
+
+git config --global user.name 'Philippe Garcia'
+git config --global user.email 'philduweb@gmail.com'
+
+git add index.html
+
+git status
+
+git rm --cached index.html
+
+git add *.html
+
+git add .
