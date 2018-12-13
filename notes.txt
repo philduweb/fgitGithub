@@ -1,7 +1,7 @@
 git init
 
-git config --global user.name 'Philippe Garcia'
-git config --global user.email 'philduweb@gmail.com'
+git config --global user.name 'nom prénom'
+git config --global user.email 'nom@gmail.com'
 
 git add index.html
 
