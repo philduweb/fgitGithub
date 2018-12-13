@@ -14,3 +14,5 @@ git add *.html
 git add .
 
 git commit
+
+git commit -m 'message du commit'
